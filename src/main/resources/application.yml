@@ -7,10 +7,11 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: create # 앱 실행 시 테이블 삭제 후 재생성 (개발용)
+      ddl-auto: create # create: 앱 실행 시 테이블 삭제 후 재생성 (개발용)
     properties:
       hibernate:
         format_sql: true # SQL 보기 좋게 출력
+        default_batch_fetch_size: 1000
 
 logging:
   level:
