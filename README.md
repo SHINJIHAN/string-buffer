@@ -1,12 +1,7 @@
 # Spring Boot JPA 최적화 쇼핑몰 시스템
 
-이 프로젝트는 [인프런 - 스프링 부트와 JPA 활용 1](https://www.inflearn.com/ko/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1) 및  
-[인프런 - 스프링 부트와 JPA API 개발 성능 최적화](https://www.inflearn.com/ko/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94) 강좌를 기반으로 작성되었다.<br>
+이 프로젝트는 [인프런 - 스프링 부트와 JPA 활용 1](https://www.inflearn.com/ko/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1) 및 [인프런 - 스프링 부트와 JPA API 개발 성능 최적화](https://www.inflearn.com/ko/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94) 강좌를 기반으로 작성되었다.<br>
 실습을 통해 **Spring Boot + JPA**의 기본 동작부터 API 개발, 성능 최적화 기법까지 구현하였다.
-
-<a href="https://www.inflearn.com/ko/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1" target="_blank" rel="noopener noreferrer">인프런 강좌</a>
-
-
 
 ![웹사이트 첫 페이지 - 스프링 부트 JPA 쇼핑몰](./images/jpashop_mainpage.png)
 
